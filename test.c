@@ -5,5 +5,6 @@ void main()
 {
     clrscr();
     printf("hello");
+    printf("vaibhav");
     getch();
 }
